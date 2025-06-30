@@ -1,0 +1,9 @@
+h5py
+matplotlib
+numpy
+openfermion
+pyscf
+qiskit
+qiskit-nature
+scipy
+sympy
